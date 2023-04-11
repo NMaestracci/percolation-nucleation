@@ -17,5 +17,6 @@ Les trois fichiers pythons utilisés sont également joints:
 
 Chaque fichier de code peut être lancé tel quel pour faire apparaitre les animations.
 
+Dans le dossier animation on peut également trouver trois fichiers gif qui sont des animations sauvegardées en exécutant les trois programmes.
 
 ##### Je publie mes travaux en public, croyant que la science, à l'instar de l'art, se partage au plus grand nombre. Si ce code vous sert, n'hésitez pas à l'utiliser, et pour toute question envoyez un mail a maestracnathan@gmail.com
